@@ -39,8 +39,7 @@ Since this extension isn’t yet on the Chrome Web Store, you can install it man
 
 2. **Unzip the folder** (if downloaded as ZIP).
 
-3. **Open Chrome and navigate to:**
-
+3. **Open Chrome and navigate to:** chrome://extensions
 
 4. **Enable Developer Mode** (toggle in the top-right corner).
 
