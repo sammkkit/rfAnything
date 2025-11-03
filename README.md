@@ -34,7 +34,7 @@ Since this extension isn’t yet on the Chrome Web Store, you can install it man
    - [Click here to download as ZIP](https://github.com/sammkkit/rfAnything/archive/refs/heads/main.zip)
    - or clone it:
      ```bash
-     git clone https://github.com/yourusername/rfAnything.git
+     git clone https://github.com/sammkkit/rfAnything.git
      ```
 
 2. **Unzip the folder** (if downloaded as ZIP).
